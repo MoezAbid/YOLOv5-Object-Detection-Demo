@@ -1,7 +1,9 @@
 # YOLOv5 Demo
 This repository contains the demonstration of the YOLOv5 [Ultralytics](https://ultralytics.com/) Objection Detection model.
 The architecture that is being used by default is the pretrained **YOLOv5s** architecture.
+
 ![Demo](YOLO.gif)
+
 ![Demo](demo.png)
 ## Usage
 Installing requirements : 
